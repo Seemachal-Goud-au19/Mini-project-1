@@ -325,7 +325,7 @@ html{
  /*sectuion3*/
  .section-3{
      width:100vw;
-     height:100vh;
+     height:150vh;
      background-color:#03070e;
      display:flex;
      flex-wrap:wrap;
