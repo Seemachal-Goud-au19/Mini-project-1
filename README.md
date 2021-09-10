@@ -5,6 +5,7 @@ This Project is organized by Newton School
 ## Welcome! 👋
 
 Introduction:
+
 This project is about the business ideas and services provided to clients by an agency.Services like Digital Marketing, consulting,IT solutions ,Software services and 
 
 much more are listed in this project.There are four types of plans which includes (Free,Basic,Standard and Premium),these plans have different price values along with 
